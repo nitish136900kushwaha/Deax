@@ -1,2 +1,2 @@
 # Deax
-learn, automate, creator, think, update
+learn, think, creator, update, automate
